@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-versionCode="1000000" id="com.flappybird.killflex" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="AndroidFullScreen">
+        <param name="android-package" value="com.mesmotronic.plugins.FullScreenPlugin" />
+    </feature>
+    <name>Flappy Bird</name>
+    <description>Flappy Bird Game</description>
+    <author email="ferryhasan10@gmail.com" href="https://killflex.github.io">killflex</author>
+    <content src="index.html" />
+    <icon src="icon.png" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-navigation href="https://*/*" />
+    <allow-navigation href="blob:*" />
+    <access origin="*" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="LoadUrlTimeoutValue" value="120000" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="android-minSdkVersion" value="22" />
+    <preference name="android-targetSdkVersion" value="32" />
+</widget>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.flappybird.killflex" version="1.0.0" android-versionCode="1000000" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+	<name>Flappy Bird</name>
+	<description>Flappy Bird Game</description>
+	<author email="ferryhasan10@gmail.com" href="https://killflex.github.io">killflex</author>
+	<content src="index.html" />
+	<icon src="icon.png"/>
+	<allow-intent href="http://*/*" />
+	<allow-intent href="https://*/*" />
+	<allow-navigation href="https://*/*" />
+	<allow-navigation href="blob:*" />
+	<plugin name="cordova-plugin-fullscreen" />
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<preference name="DisallowOverscroll" value="true" />
+	<preference name="LoadUrlTimeoutValue" value="120000" />
+	<access origin="*" />
+	<preference name="AutoHideSplashScreen" value="true" />
+	<preference name="ShowSplashScreenSpinner" value="false" />
+	<engine name="android" spec="11.0.0" />
+	<platform name="android">
+		<preference name="android-minSdkVersion" value="22" />
+		<preference name="android-targetSdkVersion" value="32" />
+	</platform>
+</widget>

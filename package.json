@@ -1,0 +1,16 @@
+{
+	"name": "Flappy Bird",
+	"private": true,
+	"devDependencies": {
+		"cordova-android": "^11.0.0",
+		"cordova-plugin-fullscreen": "^1.3.0"
+	},
+	"cordova": {
+		"platforms": [
+			"android"
+		],
+		"plugins": {
+			"cordova-plugin-fullscreen": {}
+		}
+	}
+}

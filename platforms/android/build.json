@@ -1,0 +1,12 @@
+{
+"android": {
+    "release": {
+        "keystore": "D:/Documents/My-Keystore/keystore1.jks",
+        "storePassword": "killflex",
+        "alias": "killflex",
+        "password" : "killflex",
+        "keystoreType": "",
+        "packageType": "apk"
+    }
+}
+}
