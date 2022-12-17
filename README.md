@@ -1,7 +1,7 @@
 <h1 align="center">Flappy Bird</h1>
 
 <div align="center">
-    <img src="//upload.wikimedia.org/wikipedia/en/thumb/0/0a/Flappy_Bird_icon.png/220px-Flappy_Bird_icon.png" width="220">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Flappy_Bird_icon.png/220px-Flappy_Bird_icon.png" width="220">
 </div>
 
 #
