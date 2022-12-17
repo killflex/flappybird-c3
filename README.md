@@ -48,7 +48,7 @@ git clone https://github.com/killflex/flappybird-c3.git
 install flappybird-release.apk
 ```
 > **Note**
-> If you're getting blocked by Play Protect. Choose 'INSTALL ANYWAY'. Don't worry, the app didn't contain any virus. [Watch this guide](https://youtu.be/Y8X16ve1Y2I).
+> If you're getting blocked by Play Protect. Choose 'Install Anyway'. Don't worry, the app didn't contain any virus. [Watch this guide](https://youtu.be/Y8X16ve1Y2I).
 
 ## Development
 Want to contribute, Great!
@@ -83,4 +83,4 @@ This software uses:
 
 ## License
 - Copyright © 2022 Unipin-parody
-- **Unipin-parody is open-sourced software licensed under the MIT license**
+- **Flappy Bird is open-sourced software licensed under the MIT license**
