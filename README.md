@@ -44,7 +44,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and ma
 # Clone this repository
 git clone https://github.com/killflex/flappybird-c3.git
 
-# Open it on the browser
+# Install on device
 install flappybird-release.apk
 ```
 > **Note**
