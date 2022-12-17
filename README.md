@@ -82,5 +82,5 @@ This software uses:
 - Github : <a href="https://github.com/killflex"> @killflex</a>
 
 ## License
-- Copyright © 2022 Unipin-parody
+- Copyright © 2022 Flappy Bird
 - **Flappy Bird is open-sourced software licensed under the MIT license**
